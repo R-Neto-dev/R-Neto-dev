@@ -26,9 +26,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNIT. Tenho interesse
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=R-Neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="140" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=R-Neto-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="140" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=R-Neto&layout=compact&langs_count=6&theme=dracula" height="160" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=R-Neto-dev&layout=compact&langs_count=6&theme=dracula" height="160" />
 
 </div>
 
